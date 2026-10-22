@@ -1,0 +1,44 @@
+#شطرنج #Chess #KomodoDragon #أسهم_الاقتراحات #SuggestionArrows
+
+هذه ثالث مباراة تنتهي بالتعادل على القناة، وثالث تعادل لي أمام محرك كومودو دراغون الأقصى 25 بقوة 3200 على Chess.com، **بأسهم الاقتراحات** (Suggestion Arrows). استمرت المباراة 170 حركة كاملة، وانتهت بالتعادل بقاعدة الـ 50 نقلة (Draw by 50-move rule).
+
+لعبت افتتاحًا غير معتاد بدأ بـ 1.g3، ووصلت إلى نهاية فيل ضد فيل مع بيادق، ثم دخلت في سلسلة طويلة من المناورات، حتى انتهت المباراة بالتعادل بقاعدة الـ 50 نقلة.
+
+📌 تفاصيل المباراة:
+- المحرك: كومودو دراغون الأقصى 25
+- القوة: 3200
+- الموقع: Chess.com
+- الافتتاح: 1.g3 (Benko Opening / Hungarian Opening)
+- النتيجة: 1/2-1/2 (تعادل بقاعدة الـ 50 نقلة)
+- عدد النقلات: 170 (للأبيض)
+- مدة المباراة: 15 دقيقة و32 ثانية
+- متوسط سرعة النقلة: حوالي 5.5 ثوانٍ لكل نقلة (للأبيض)
+- **المساعدات: أسهم الاقتراحات فقط**، بدون أي مساعدات أخرى
+
+📌 أبرز اللحظات:
+- الحركة 18: Ne2 (إعادة تنظيم)
+- الحركة 24: Bd4 (ضغط على الجناح)
+- الحركة 28: Nf5 (حصان نشط)
+- الحركة 33: Rf8+ (اختراق)
+- الحركة 37: Nf7 (تهديد)
+- الحركة 42: Bxf8 Kxe5 (تبادل)
+- الحركة 119: ...c3+ (محاولة أخيرة من المحرك)
+- الحركة 170: Bf6 (تعادل بقاعدة الـ 50 نقلة)
+
+📌 نص المباراة (PGN):
+
+[Event "Vs. Computer"]
+[Site "Chess.com"]
+[Date "2026-05-04"]
+[Black "الأقصى"]
+[Result "1/2-1/2"]
+[BlackElo "3200"]
+[TimeControl "-"]
+[Termination "Draw by 50-move rule"]
+
+1. g3 e5 2. Bg2 d5 3. d4 exd4 4. Qxd4 Nf6 5. Bf4 Nc6 6. Qd2 Bb4 7. Nc3 Bf5 8. a3 Bxc3 9. Qxc3 O-O 10. h4 Ne4 11. Bxe4 dxe4 12. Be3 Qc8 13. f3 exf3 14. exf3 Re8 15. Kf2 Ne7 16. Rd1 c6 17. g4 Be6 18. Ne2 Nd5 19. Rxd5 Bxd5 20. h5 h6 21. g5 hxg5 22. h6 f6 23. hxg7 Qf5 24. Bd4 g4 25. Ng3 Qxf3+ 26. Qxf3 gxf3 27. Rh6 b6 28. Nf5 Re2+ 29. Kf1 c5 30. Bxf6 Kf7 31. Bc3 Rd8 32. Rf6+ Ke8 33. Rf8+ Kd7 34. Nd6 Rg2 35. Bf6 Ra8 36. c4 Bc6 37. Nf7 Be4 38. Ne5+ Ke6 39. Ke1 a5 40. a4 Rxg7 41. Bxg7 Rxf8 42. Bxf8 Kxe5 43. Bg7+ Ke6 44. Kf2 Bd3 45. Kxf3 Bxc4 46. Ke3 Bb3 47. Bf8 Bxa4 48. Kd3 Bb3 49. Kc3 a4 50. Kd2 Kd5 51. Kc3 b5 52. Be7 Kc6 53. Bf8 b4+ 54. Kd2 Be6 55. Kc2 Bf5+ 56. Kc1 Kb5 57. Be7 a3 58. bxa3 bxa3 59. Kd2 a2 60. Bf6 Kc4 61. Bc3 Kb3 62. Be5 Bc8 63. Kc1 Bf5 64. Bf6 Bd3 65. Kd2 Bg6 66. Kc1 Bb1 67. Kd2 Bf5 68. Kc1 Bd3 69. Kd2 Bh7 70. Kc1 c4 71. Kd2 Be4 72. Be5 Bg6 73. Bg7 Bd3 74. Bf6 Bf5 75. Be5 Bg6 76. Bf6 Be4 77. Be5 Ba8 78. Bf6 Bb7 79. Be5 Bc8 80. Bf6 Bf5 81. Be5 Bd3 82. Bf6 Be2 83. Be5 Bd1 84. Bf6 Bf3 85. Be5 Be4 86. Bc3 Bd5 87. Bf6 Bg8 88. Be5 Be6 89. Bg7 Bd5 90. Bf6 Bc6 91. Bg7 Bb5 92. Bf6 Be8 93. Bg7 Bg6 94. Bf6 Bd3 95. Bg7 Bf1 96. Bf6 Be2 97. Bg7 Bf1 98. Bf6 Bd3 99. Bg7 Be2 100. Bf6 Bg4 101. Bg7 Bd1 102. Bf6 Bf3 103. Bg7 Ba8 104. Bf6 Bc6 105. Bg7 Bf3 106. Bf6 Bd5 107. Be5 Be6 108. Bf6 Bd5 109. Be5 Be4 110. Bf6 Bg2 111. Be5 Bf3 112. Bf6 Ba8 113. Be5 Bg2 114. Bf6 Bb7 115. Be5 Bc8 116. Bf6 Be6 117. Be5 Bf5 118. Bf6 Bc8 119. Be5 c3+ 120. Bxc3 Bg4 121. Bf6 Bc8 122. Be5 Bf5 123. Bf6 Bb1 124. Be5 Be4 125. Kc1 Bd5 126. Bf6 Be4 127. Be5 Bd5 128. Bf6 Bf3 129. Be5 Bc6 130. Bf6 Bf3 131. Be5 Bg4 132. Bf6 Bf5 133. Be5 Bd3 134. Bf6 Bb5 135. Be5 Bf1 136. Bf6 Bg2 137. Be5 Bh3 138. Bf6 Bf5 139. Be5 Bd7 140. Bg7 Bc6 141. Be5 Bf3 142. Bf6 Bd5 143. Be5 Bc4 144. Bf6 Bd3 145. Be5 Be4 146. Bf6 Bd3 147. Be5 Bf5 148. Bf6 Bg4 149. Be5 Bf5 150. Bf6 Bg4 151. Be5 Bf3 152. Bf6 Bd5 153. Be5 Bf7 154. Bf6 Bc4 155. Be5 Be6 156. Bf6 Bc4 157. Be5 Bd3 158. Bf6 Bb5 159. Be5 Bc6 160. Bf6 Bd7 161. Be5 Bg4 162. Bf6 Bd7 163. Be5 Be8 164. Bf6 Bf7 165. Be5 Be6 166. Bf6 Bg8 167. Be5 Bh7 168. Bf6 Bb1 169. Be5 Be4 170. Bf6 1/2-1/2
+
+📌 ما رأيكم في هذه المباراة الطويلة؟ وهل كان بإمكاني تحويل الأفضلية إلى فوز في مرحلة ما؟ شاركوني تحليلكم في التعليقات.
+
+📌 الهاشتاجات الإضافية:
+#BenkoOpening #HungarianOpening #50MoveRule #Draw #تعادل #Chesscom #تحدي_المحرك #مباراة_شطرنج #ثالث_تعادل #أسهم_الاقتراحات #SuggestionArrows #ArabicChess
