@@ -6,7 +6,7 @@ import os
 
 app = Flask(__name__)
 
-openai.api_key = "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"
+openai.api_key = os.environ.get("GROQ_API_KEY")
 openai.api_base = "https://api.groq.com/openai/v1"
 
 with open("All_Videos_Merged.txt", "r", encoding="utf-8") as f:
